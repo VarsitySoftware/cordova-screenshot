@@ -3,7 +3,7 @@
   "version": "0.1.5",
   "description": "screenshot PhoneGap Plugin for Android",
   "cordova": {
-    "id": "com.varsitysoftware.cordova.screenshot",
+    "id": "com.varsitysoftware.plugins.screenshot",
     "platforms": [
       "android",
       "ios",
